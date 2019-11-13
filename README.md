@@ -26,3 +26,6 @@ o                                                                 |
                                  |
 ███████████████████████████████████████████████████████████████████
 </pre>
+
+<br>
+Author: Michał Warzecha I rok Informatyka EAIIB grupa 6b
